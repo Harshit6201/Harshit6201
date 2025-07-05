@@ -1,4 +1,7 @@
 # Hi 👋, I'm Harshit Tiwari
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Explorer;Open+Source+Contributor;Bug+Fixer+by+Night;Code.+Debug.+Repeat." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="Developer Animation">
