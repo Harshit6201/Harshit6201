@@ -1,5 +1,10 @@
 # 💫 Hi 👋, I'm Harshit Tiwari
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/Developer.gif" width="400" alt="Coding developer animation" />
+</p>
+
+
 Hi! I'm Harshit a passionate developer currently building full-stack web apps with **MERN**, masteri**DSA in C++**, and exploring scalable tech.
 
 ## 📌 What I'm Up To
