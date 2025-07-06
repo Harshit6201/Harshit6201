@@ -8,8 +8,9 @@
 </p>
 
 
-🧠 About Me
+## 🧠 About Me
 👨‍💻 Me: "I’ll just write a simple logic..."
+
 🖥️ C++: “Segmentation fault (core dumped).”
 
 Hi, I’m Harshit Tiwari – a Computer Science student who writes code that works… eventually.
