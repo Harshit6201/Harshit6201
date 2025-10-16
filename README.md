@@ -13,8 +13,11 @@
 
 🖥️ C++: “Segmentation fault (core dumped).”
 
+🧩 Java: “NullPointerException — using nothing as something.”
+
+
 Hi, I’m Harshit Tiwari – a Computer Science Student who writes code that works… eventually.
-Fluent in C++, focused on mastering Data Structures & Algorithms, and highly skilled at Googling error messages under pressure.
+Fluent in C++,Java focused on mastering Data Structures & Algorithms, and highly skilled at Googling error messages under pressure.
 Open-source keeps me curious. Deadlines keep me caffeinated.
 
 💡 Motto: Still learning, still debugging, still blaming the compiler.
