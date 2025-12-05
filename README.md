@@ -1,4 +1,4 @@
-# Hi👋, I'm Harshit Tiwari
+# Namaste👋, I'm Harshit Tiwari
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Enthusiast;Open+Source+Contributor;Bug+Fixer+by+Night;Code.+Debug.+Repeat." alt="Typing SVG" />
 </p>
